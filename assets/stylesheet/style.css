@@ -1,0 +1,180 @@
+.move{
+
+    width: 40%;
+}
+.icon{
+    padding-left: 20%;
+}
+.font{
+    font-family: 'poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+color: #FFFFFF;
+}
+.shift{
+
+    width: 40%;
+}
+.butt{
+    width: 165px;
+height: 36px;
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+border-radius: 5px;
+}
+.backgrounder{
+    background: #E7AC3E;
+   
+}
+.aff{
+    font-family: 'poppins';
+    color: white;
+font-style: normal;
+margin-top: 33px;
+font-weight: 600;
+font-size: 44px;
+line-height: 50px;
+}
+.quality{
+    font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+margin-top: 30px;
+color: #FFFFFF;
+}
+.order{
+    
+font-family: 'poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+padding-top: 60px;
+text-align: center;
+color: #333333;
+}
+.order12{
+    
+font-family: 'poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+padding-top: 60px;
+text-align: center;
+color: #333333;
+}
+.get{
+    font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+text-align: center;
+margin-top: 12px;
+color: #333333;
+}
+.cent{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    text-align: center;
+    margin-top: 15px;
+}
+.all{
+    
+font-family: 'poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+margin-top:33px ;
+color: #E7AC3E;
+}
+.search{
+    font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+margin-left: 10px;
+color: #333333;
+}
+.yy{
+    width: 220px;
+    margin-top:20px;
+    font-family: 'poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+color: #34912B;
+}
+.oqwn{
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    justify-content: center;
+}
+.rx{
+    font-family: 'poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+display: flex;
+align-items: center;
+color: #E7AC3E;
+}
+.loadd{
+    font-family: 'poppins';
+font-style: normal;
+font-weight: 400;
+align-items: center;
+margin-top: 17px;
+font-size: 18px
+}
+.pp{
+    font-family: 'poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+text-align: start;
+text-decoration-line: underline;
+color: #E7AC3E;
+margin-top: 30px;
+}
+.cardd{
+    background: #ffffff;
+border-radius: 9.37143px;
+height: 265px;
+width: 347px;
+
+}
+.mt{
+    margin: 10px;
+    font-family: 'poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+color: #333333;
+}
+.th{
+    font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+color: rgba(51, 51, 51, 0.85);
+}
+.ccard{
+
+
+   width: 100%;
+    border-radius: 9px;
+    
+
+
+
+background: #ececec;
+border: 1.17143px solid #FAFAFA;
+box-shadow: 0px 0px 144.086px rgba(135, 179, 245, 0.08);
+border-radius: 9.37143px;
+}
